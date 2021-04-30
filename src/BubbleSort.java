@@ -1,7 +1,7 @@
 public class BubbleSort {
     public static void main(String[] arg)
     {
-        int [] a={10,9,12,22,18};
+        int [] a={7,9,13,4,2};
         for(int i=0;i<a.length-1;i++)
         {
             for(int j=0;j<a.length-i-1;j++)
