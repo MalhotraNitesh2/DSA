@@ -17,7 +17,7 @@ public class PatternSearch {
                     if (txt.charAt(i + j) != pat.charAt(j))
                         break;
 
-                if (j == M) // if pat[0...M-1] = txt[i, i+1, ...i+M-1]
+                    if (j == M) // if pat[0...M-1] = txt[i, i+1, ...i+M-1]
                     System.out.println("Pattern found at index " + i);
             }
         }
