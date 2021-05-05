@@ -19,7 +19,7 @@ public class FristRepeatingChar {
     }
     public static void main(String[] arg)
     {
-            String s="abcbc";
+            String s="abcbca";
            System.out.println( check(s));
 
     }
