@@ -19,6 +19,7 @@ public class Implementation {
                  node =node.next;
              }
         }
+
     }
     public static void main(String[]arg)
     {
