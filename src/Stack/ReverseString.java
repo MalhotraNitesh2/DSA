@@ -21,7 +21,7 @@ public class ReverseString {
     }
     public static void main(String[] arg)
     {
-        String str="ulta ";
+        String str="ulta";
         System.out.println(reverString(str));
 
     }
