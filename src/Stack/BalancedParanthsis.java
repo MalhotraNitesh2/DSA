@@ -19,7 +19,7 @@ public class BalancedParanthsis {
              else if(!st.empty()&& str.charAt(i)=='}' && st.peek()=='}')
              {
               st.pop();
-
+            
              }
              else if(!st.empty()&&str.charAt(i)==']' && st.peek()==']')
              {
